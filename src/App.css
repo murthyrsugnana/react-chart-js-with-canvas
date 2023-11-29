@@ -1,0 +1,113 @@
+#main-div {
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+    /* border: 1px solid black; */
+    overflow: hidden;
+}
+
+#main-header {
+    margin: auto;
+    margin-top: 5px;
+    padding: 4px;
+    width: 99vw;
+    height: 4vh;
+    background-color: white;
+    /* border: 1px solid black;  */
+    border-bottom: 0.01vw solid #347da2!important;   
+    /* border-radius: 5px;    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.main-header-title {
+    font-size: 1vw;
+    color: #212529;
+}
+
+#content {
+    margin: auto;
+    margin-top: 5px;
+    width: 99vw;
+    height: 93vh;
+    padding: 5px;
+    /* border: 1px solid black; */
+    /* border: 1px solid transparent;
+    border-radius: 5px;    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+main {
+    display: inline-block;
+    vertical-align: top;
+    width: 70%;
+    height: 92vh;
+    /* border: 1px solid black; */
+    /* overflow: auto; */
+    /* border: 1px solid transparent;
+    border-radius: 5px;    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+main div {
+    font-weight: 500;
+    color: #212529;
+    font-size: .8vw!important;
+}
+
+main p {
+    font-size: 0.75vw;
+    color: steelblue;
+}
+
+
+aside {
+    display: inline-block;
+    vertical-align: top;    
+    width: 29.5%;
+    height: 90.1vh;
+    margin-top: 0.4vw;
+    margin-left: 2px;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 5px;    
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 0 0.1vw 0.2vw rgba(0,0,0,0.075)!important;
+}
+
+aside div {
+    font-weight: 500;
+    color: #347da2;
+    font-size: .8vw!important;
+}
+
+aside p {
+    font-weight: 500;
+    color: #212529;
+    font-size: .8vw!important;
+}
+
+#bar-graph {
+    display: inline-block;
+    justify-content: space-around;
+    vertical-align: top;   
+    width: 32%;
+    height: 29vh;     
+    margin-right: 0.4vw;
+    margin-left: 0.4vw;
+    margin-top: 0.4vw;
+    margin-bottom: 0.4vw;    
+    background-color: white;
+    border: 1px solid transparent;
+    border-radius: 5px;    
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 0 0.1vw 0.2vw rgba(0,0,0,0.075)!important;
+}
+
+#aside-content {
+    display: block;
+    height: 218px;     
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 2.5vw;      
+    /* border: 1px solid black; */
+}
