@@ -7,9 +7,9 @@ import DataGraph3 from "./DataGraph3";
 // import DataGraph9 from "./DataGraph9";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
+// import Container from "react-bootstrap/Container";
+// import Row from "react-bootstrap/Row";
+// import Col from "react-bootstrap/Col";
 
 export default function App() {
   return (
